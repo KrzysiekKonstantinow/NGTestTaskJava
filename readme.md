@@ -11,7 +11,7 @@ Download and unpack the project in a chosen location.
 ```
 Apache Maven 3.6.1 (or higher)
 Java SE Development Kit 14.0.1 (or higher)
-Chromedriver (donwload chromedriver that corresponds to the version of Chrome that you are using from https://chromedriver.chromium.org/downloads and unpack the .exe file to the /chromedriver folder in the project)
+Chromedriver (If you are using Chrome version other than 87 then download corresponding chromedriver from https://chromedriver.chromium.org/downloads and unpack it and replace the .exe file in the /chromedriver folder in the project)
 ```
 
 ### Running the tests
